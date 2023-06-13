@@ -1,0 +1,8 @@
+training dataset: fesc_test
+seed = 5
+umFeatures = 5
+Feature List: SFRs, Mstars, masses, redshifts, fgases
+fluxSize = 4
+batch_size = 256
+epochs     = 1000
+0 epoch  1 train loss  2 test loss
